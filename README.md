@@ -1,6 +1,10 @@
 # Asteroid Avoid
 ## Introduction:
 The project is a single player/multiplayer game where the goal is to avoid incoming asteroids for as long as possible, or in the case of two players until the other player is hit. As the game progresses in time the difficulty increases, and asteroid velocities and frequencies will increase likewise. 
+
+### Video Demo:
+https://youtu.be/jiJtpiQHvFg
+
 ## Complexities:
 * Nokia 5110 LCD Screen
 * Random Number Generator
